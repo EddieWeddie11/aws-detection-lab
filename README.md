@@ -42,3 +42,10 @@ Attacker action (boto3)  ─►  CloudTrail event  ─►  S3 logs
 - [ ] IAM over-permissive policy
 - [ ] Disable CloudTrail (defence evasion)
 - [ ] Map each attack to a Sigma rule + Datadog detection
+
+## What I learnt 
+
+- Navigating AWS Portal and how configuration and attention to detail is very important 
+- When creating a repo, having proper file structure is important and professional 
+- Everything in the cloud is abstract in a way that, there are no visuals on what is happening unlike front-end development 
+- Everything in the cloud is about proper configuration - one small misconfiguration can leave the door wide open
