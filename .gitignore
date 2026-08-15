@@ -16,4 +16,5 @@ env/
 # OS / editor
 .DS_Store
 .idea/
-.vscode/output/
+.vscode/
+output/
